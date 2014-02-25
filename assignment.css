@@ -40,7 +40,7 @@ img {
 
 figcaption { 
     font-size: .75rem;
-    margin: .05 rem 0 
+    margin: 0.05 rem 0 
 }
 ol {
     
@@ -76,9 +76,9 @@ h1 span {
 h2 {
     font-size: 1rem;
     margin: 0 0 1.5rem;
-    line-height: 2.rem;
+    line-height: 2.0rem;
     border-top: solid .1rem;
-    padding: .5rem 0 0;
+    padding: 0.5rem 0 0;
     color:red;
 }
 
@@ -88,30 +88,6 @@ p {
 
 }
 
-blockquote {
-    margin: 0;
-    padding: 0 0 0 15%;
-    overflow: hidden;
-}
-
-blockquote p {
-    font-size: .875rem;
-}
-
-blockquote span {
-    font-weight: bold;
-    float: right;
-    margin: 1.5rem; 0;
-}
-    
-blockquote p:before {
-    content: "“"; 
-    font-size : 4rem;
-    color: red;
-    float: left;
-    margin: 1rem 0 0 -2rem;
-}
-    
     footer p {
     color: white;
     margin: .5rem 5% 4rem;
